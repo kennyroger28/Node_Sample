@@ -1,0 +1,8 @@
+npm int -y
+npm i custom-env
+npm install express
+npm install mssql
+npm i chalk
+
+
+
